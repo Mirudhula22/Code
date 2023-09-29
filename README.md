@@ -1,3 +1,3 @@
 # Code
-First Repo
+First Repository
 -by Mirudhula
